@@ -8,7 +8,7 @@ Este é o meu repósitorio público do GitHub, criado para facilitar o acesso de
 
 O meu portfolio, foi um projeto desenvolvido por mim, para falar um pouco sobre mim, sobre meus projetos, habilidades, divulgar minhas habilidades como desenvolvedor e facilitar o acesso de todos ao meu GitHub e LinkedIn.
 
-[Clique aqui](https://khelvin-soares.vercel.app/) para acessar o meu portfolio.
+- <a href="https://khelvin-soares.vercel.app/" target="_blank" rel="external">**Clique aqui**</a> para acessar o meu portfolio.
 
 ## Meus Projetos
 
