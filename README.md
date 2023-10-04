@@ -2,7 +2,7 @@
 
 ## Repositório público de Kelvin Soares
 
-Este repósitorio foi criado para facilitar o acesso de todos as minhas pastas de estudos, meu portfolio, projetos, entre outros...
+Este é o meu repósitorio público do GitHub criado para facilitar o acesso de todos as minhas pastas de estudos, meus projetos, entre outros...
 
 ## Meu portfolio
 
@@ -11,7 +11,7 @@ Este repósitorio foi criado para facilitar o acesso de todos as minhas pastas d
 ## Meus Projetos
 
 ```
-    null
+    - null
 ```
 []()
 
