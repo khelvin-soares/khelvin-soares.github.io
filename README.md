@@ -14,6 +14,8 @@ O meu portfólio, foi um projeto desenvolvido por mim, para falar um pouco sobre
 
 - **Projeto:** [Developer Portal](https://developersweb-portal.vercel.app/)
 
+---
+
 <div align="center">
     <a href="mailto: kelvinsoarescontato@gmail.com" target="_blank" rel="external">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Icon E-mail">
