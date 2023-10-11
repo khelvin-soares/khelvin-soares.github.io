@@ -21,7 +21,7 @@ O meu portfólio, foi um projeto desenvolvido por mim, para falar um pouco sobre
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Icon E-mail">
     </a>
     <a href="https://khelvin-soares.vercel.app/" target="_blank" rel="external">
-        <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Icon Portfólio">
+        <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Icon Portfólio">
     </a>
     <a href="https://github.com/khelvin-soares" target="_blank" rel="external">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" rel="Icon GitHub">
