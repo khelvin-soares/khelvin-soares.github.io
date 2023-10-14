@@ -12,7 +12,7 @@ O meu portfólio, foi um projeto desenvolvido por mim, para falar um pouco sobre
 
 ## Meus Projetos
 
-- **Projeto:** [Developer Portal](https://developersweb-portal.vercel.app/)
+- **Projeto:** [Developer Portal](https://developersweb-portal.vercel.app/) ([*Veja o código*](https://github.com/khelvin-soares/my-projects/blob/main/developer-portal/index.html))
 
 ---
 
