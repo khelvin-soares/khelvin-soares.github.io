@@ -13,6 +13,10 @@ O meu portfólio, foi um projeto desenvolvido por mim, para falar um pouco sobre
 ## Meus Projetos
 
 - **Projeto:** [Developer Portal](https://developersweb-portal.vercel.app/) ([*Veja o código*](https://github.com/khelvin-soares/my-projects/blob/main/developer-portal/index.html))
+- **Projeto:** [Calculadora](https://khelvin-soares.github.io/my-projects/calculadora/index.html) ([*Veja o código*](https://github.com/khelvin-soares/my-projects/blob/main/calculadora/index.html))
+- **Projeto:** [Jogo da Velha](https://khelvin-soares.github.io/my-projects/jogo-da-velha/index.html) ([*Veja o código*](https://github.com/khelvin-soares/my-projects/blob/main/jogo-da-velha/index.html))
+- **Projeto:** [Android](https://khelvin-soares.github.io/my-projects/android/index.html) ([*Veja o código*](https://github.com/khelvin-soares/my-projects/blob/main/android/android.html))
+- **Projeto:** [Cordel Moderno](https://khelvin-soares.github.io/my-projects/cordel/index.html) ([*Veja o código*](https://github.com/khelvin-soares/my-projects/blob/main/cordel/index.html))
 
 ---
 
